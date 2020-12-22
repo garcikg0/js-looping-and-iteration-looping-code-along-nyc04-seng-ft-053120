@@ -12,3 +12,4 @@ function countDown(num) {
         num--;
     }
 }
+
